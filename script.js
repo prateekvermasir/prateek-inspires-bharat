@@ -1,1 +1,3 @@
-console.log("Prateek Inspires Bharat");
+document.addEventListener("DOMContentLoaded", function () {
+  console.log("Prateek Inspires Bharat Loaded");
+});

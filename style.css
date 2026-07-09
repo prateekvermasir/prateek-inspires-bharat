@@ -1,3 +1,29 @@
-body {
-    margin: 0;
+
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#0b1220;
+color:white;
+}
+
+header{
+background:#ff6600;
+padding:20px;
+text-align:center;
+font-size:30px;
+font-weight:bold;
+}
+
+.hero{
+padding:80px 20px;
+text-align:center;
+}
+
+.btn{
+display:inline-block;
+padding:15px 30px;
+background:#ff6600;
+color:white;
+text-decoration:none;
+border-radius:8px;
 }

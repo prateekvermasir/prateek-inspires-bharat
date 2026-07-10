@@ -145,3 +145,10 @@ margin:15px auto;
 .hero .btn{
 margin:10px;
   }
+.banner{
+width:100%;
+max-width:900px;
+display:block;
+margin:0 auto 30px;
+border-radius:15px;
+}
